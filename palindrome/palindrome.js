@@ -23,5 +23,5 @@
 
 var palindrome = function(str) {
     /* YOUR CODE GOES HERE */
-
+    return str;
 };
