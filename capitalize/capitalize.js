@@ -19,6 +19,5 @@
  **************************************************************/
 
 var capitalize = function(str) {
-    /* YOUR CODE GOES HERE */
-
+    return str.toUpperCase();
 };
