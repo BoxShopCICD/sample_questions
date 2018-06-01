@@ -17,6 +17,6 @@
  **************************************************************/
 
 var sumNumbers = function(num) {
-    /* YOUR CODE GOES HERE */
+    /* YOUR CODE GOES HE */
 
 };
