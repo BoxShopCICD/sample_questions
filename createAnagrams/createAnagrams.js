@@ -25,6 +25,6 @@
  **************************************************************/
 
 var createAnagrams = function(string) {
-  /* YOUR CODE GOES HERE */
+  boo;
 
 };
