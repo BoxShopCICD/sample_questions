@@ -22,6 +22,6 @@
  **************************************************************/
 
 var palindrome = function(str) {
-    /* YOUR CODE GOES HERE */
+    /* YOUR CODE GOES E */
 
 };
