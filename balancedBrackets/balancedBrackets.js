@@ -24,6 +24,6 @@
  **************************************************************/
 
 var balancedBrackets = function(str) {
-    /* YOUR CODE GOES HERE */
+    /* TEST */
 
 };
