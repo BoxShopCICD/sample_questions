@@ -21,7 +21,7 @@
  *                                                             *
  **************************************************************/
 
-var palindrome = function(str) {
+module.exports= function palindrome(str) {
     /* YOUR CODE GOES HERE */
 
 };
