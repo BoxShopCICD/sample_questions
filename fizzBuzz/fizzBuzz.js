@@ -24,6 +24,6 @@
  **************************************************************/
 
 var fizzBuzz = function(num) {
-    /* YOUR CODE GOES HERE */
+    /* YOUR CODE GOES HER */
 
 };
